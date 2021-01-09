@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1604126206 source:/home/ayoub/Desktop/C++/balenced_parentheses/main.cpp
+	<iostream>
+	<string>
+	<stack>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604153061 source:/home/ayoub/Desktop/C++/reverse/main.c
+	<stdio.h>
+	<stdlib.h>
+

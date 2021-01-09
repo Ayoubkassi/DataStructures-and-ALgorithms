@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1609512802 source:/home/ayoub/Desktop/tpc/main.c
+	<stdio.h>
+	<stdlib.h>
+	"personne.h"
+	"linkedlist.h"
+
+1609499944 /home/ayoub/Desktop/tpc/personne.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1609501099 /home/ayoub/Desktop/tpc/linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1609501116 source:/home/ayoub/Desktop/tpc/linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedlist.h"
+
+1609500823 source:/home/ayoub/Desktop/tpc/personne.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personne.h"
+

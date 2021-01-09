@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607538160 source:/home/ayoub/Music/a/main.c
+	<stdio.h>
+	<stdlib.h>
+

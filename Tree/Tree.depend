@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1610093596 source:/home/ayoub/Desktop/Tree/main.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+	"linkedlist.h"
+
+1609501116 source:/home/ayoub/Desktop/Tree/linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedlist.h"
+
+1610093572 /home/ayoub/Desktop/Tree/linkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1609518245 /home/ayoub/Desktop/Tree/tree.h
+	<stdbool.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1610093643 source:/home/ayoub/Desktop/Tree/tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tree.h"
+	"linkedlist.h"
+
