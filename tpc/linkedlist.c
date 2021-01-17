@@ -55,6 +55,7 @@ void InsertFirst(Liste* li,void* value){
 }
 
 //ajouter apres element
+//HSY
 
 void insertAfter(Liste* li,void* value,Element* before){
 	if(before == NULL){
