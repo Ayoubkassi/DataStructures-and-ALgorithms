@@ -26,10 +26,9 @@ char* reverseString(char* str,int n)
     int l, i;
     char *begin_ptr, *end_ptr, ch;
 
-    // Get the length of the string
     l = strlen(str);
 
-    // Set the begin_ptr and end_ptr
+    // Set the begin_pr and end_ptr
     // initially to start of string
     begin_ptr = str;
     end_ptr = str;
@@ -38,8 +37,6 @@ char* reverseString(char* str,int n)
     for (i = 0; i < l - 1; i++)
         end_ptr++;
 
-    // Swap the char from start and end
-    // index using begin_ptr and end_ptr
     for (i = 0; i < l / 2; i++) {
 
         // swap character
@@ -55,13 +52,10 @@ char* reverseString(char* str,int n)
 
 int main()
 {
-  /*  int t[]={1,2,3,4,13,22,35,44,76,88};
-    int n=6;
-    int r=dico(t,0,9,13);
-    (r == -1)? printf("Element not found"):printf("\t\tElement found in %d\n\n\n",r+1);*/
+ 
 
       // Get the string
-    char str[100] = "GeeksForGeeks";
+    char str[100] = "AyoubKassi";
     printf("Enter a string: %s\n", str);
 
     // Reverse the string
