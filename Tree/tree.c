@@ -97,6 +97,7 @@ int max(int num1, int num2)
 }
 
 // Hauteur
+//HSY HSY
 
 int Hauteur(Noeud* racine){
 	if(racine == NULL){
