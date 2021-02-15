@@ -173,7 +173,7 @@ bool deletebyValue(Liste* li,void* value){
 	while(!finListe(li)){
 		before=ptc;
 		ptc = elementCourant(li);
-		found = (ptc->value = value)  ?  true : false;
+		found = (ptc->value == value)  ?  true : false;
 
 	}
 	if(!found) return false;
