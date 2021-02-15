@@ -25,7 +25,7 @@ int comparer(void* value1,void* value2);
 char* display(void* value);
 static void initialiserListe(Liste* li,int type,int (*comparer) (void*,void*),char* (*display) (void*));
 Liste* createListe(int type,int (*comparer) (void*,void*),char* (*display) (void*));
-bool isEmpty(Liste* li);
+bool ListeVide(Liste* li);
 int nbrElement(Liste* li);
 Element* createElement();
 void InsertFirst(Liste* li,void* value);
